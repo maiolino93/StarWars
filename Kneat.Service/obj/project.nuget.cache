@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lrLb5wcdCeZUs7dncRQdD4dC9H2StmtiGHNrQY6Cbhmvn+A5RsiMsRMzR5WjOlqffpYL7S9ym+vDhvGD/2zM+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan Maiolino\\Documents\\Proyectos\\KneatCodeChallenge\\Kneat.Service\\Kneat.Service.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan Maiolino\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
